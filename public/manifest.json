@@ -12,11 +12,11 @@
   "key": "MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDSIHU2Gy2tDRJMfdTzJqIiCrrK2fZDhB1hfbB/rc/uFGJaJIVu9yjoF6jbDJU3grcEBp1/CdkYZ6L17abkqD2Foc5B3Mz/xHdDq5hlUO14HL9mPj4F1L+7G1mWD1VJJgGrfENx91auOEGvvgyIBfnchvbEO94SHn0SGFCb5MAudxniDit/xt6G9YZpMgrInJAK7dU15Vok07KSxvRZj09puptml/NIA5IySHrdRIo4UCWWYA7nSH5lC/XDKFsODqni8TwB5k5uKEeHf/siPLyB4ZcdR/4gxtZIS1Ox55QBujtBL9Amv61UOcDlOw/wWf1DsvNUMxrfT3FhW+ocw/znAgMBAAECggEAHwqHdjY+oaVgMieWmVL4OaIvJP9c921hb8EDHWF+aZPeUaW6hoGBrAOuwKlTs88eHTyi8JzyUr4gn0b71CScbgzQrP8i05fg7IDBcxoo8okAp2iDfhYHOutX6Sibt0IjlgM17XSV/Ae4gG9JZ6DGYBMaCjQz4qZZYJ5x7g21bEeMPPo2dK6C7zyt3zb66jfA1jKzXco2vzYgqgBRzUbv7QTOCfxenB6AyrFD19K2Z/NYvR4oQkG3SbyZNPsjYX+Pn+x8ylqE3s4LPYaD2fjBJU0hZsim1m9+brudacsBjl/SvIQNJZbxoneiOEV+Wed3/vIME1WIvsVlnFkfUvgsDQKBgQD4mP7uY29/ymjoZNOldd4ol9FD8kg8jkq+uH48moEA6oz+U9/Oxxz4wt75WZtVv9G0C3WOSBzw/VDz7Il4mQf4YLtty6JRsMPG+wNDDrgOOLgJDZTUP8KGwmpQf9YnyPzckhWCr3+PVI/DhR7hq/dDRdTyeN58dzHCo13e5iOf6wKBgQDYYjUUSWmxATrXiBgpc+/+tqTZR5dWRNGXr15rNPSL7FNOLNi65MveYMZes2oAiK7eDJCWy7nSxwtabkisaz57r5vCywws1F+EP7Se/wXVpLzOW5ZnjZU+ZUmnT7mgHho3+hXNmdWdiByf+I6Nm2zDlEhM5Pc/1AJv4fKTmYiT9QKBgAnhovh80VjGBed+4n7IMZ1xc2r8/WwSx9vO342vIoOTzyjo0pOYjIlCzbQhoLAG4OIENpcCPMxDdW1MsKYvhwaTab/SgVA384A8SAPpWN2P2Zjahljtc+EBZ1Jt0mhgb9SgpeQ875gV52UBLJoRyNFOvEkrDsTpw/uVnMyYX0AjAoGATMf0W8F9DoEINyikojjwhSqcLjl4GvWKhc+Fqnb8+5WdLdU+BntfWAZw/XOefpgBrOs6dzfNNVzJy4nsobngTxVOKP3R0Sp+xjewyOZnVJsDIBphsVcNCTn5u7PPg2CLHyfPisg2g5KjzaPuOZNYMcIxMY/hqDV7s+WyJOvLCe0CgYBiJjjLLURllEwO3CtNp1e1xmU13cREC+LJvz0Gig1RAkwccBknr6LVJb3IvYFQPgHcsErBmhXAxWNfFqsLM/OToGZf2wol3/nZ41ReKPabT7X8MY4rau7P4G6bVdjG0T4e+JvCkZGZJf0tuSUaMoH5zK9hsDI89e2OXSXstLeNdA==",
   "content_scripts": [
     {
-      "matches": ["https://www.rophim.li/*", "https://rogiaitri.com/*"],
+      "matches": ["https://www.rophim.moi/*", "https://rogiaitri.com/*"],
       "js": ["assets/content.js"],
       "run_at": "document_start",
       "world": "MAIN"
     }
   ],
-  "host_permissions": ["https://www.rophim.li/*", "https://rogiaitri.com/*"]
+  "host_permissions": ["https://www.rophim.moi/*", "https://rogiaitri.com/*"]
 }

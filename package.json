@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "prettier --write . && tsc -b && vite build && node updateManifest.js",
+    "build": "tsc -b && vite build && node updateManifest.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
