@@ -78,6 +78,15 @@ Chúng tôi luôn hoan nghênh các đóng góp! Nếu bạn muốn cải thiệ
 3. Thực hiện các thay đổi và đảm bảo chúng tuân thủ các tiêu chuẩn mã hóa của dự án (ví dụ: vượt qua kiểm tra ESLint).
 4. Gửi pull request với mô tả rõ ràng về những thay đổi của bạn.
 
+## ⚠️ Tuyên bố miễn trừ trách nhiệm
+
+Extension này được phát triển **chỉ nhằm mục đích học tập, nghiên cứu kỹ thuật và thử nghiệm bảo mật**.
+
+* Tác giả **không chịu trách nhiệm** cho mọi vấn đề phát sinh từ việc sử dụng extension này.
+* Nếu **chủ sở hữu trang web hoặc bên liên quan yêu cầu**, extension (mã nguồn liên quan) sẽ được **gỡ bỏ ngay lập tức**.
+
+Việc sử dụng extension đồng nghĩa với việc bạn **tự chịu hoàn toàn trách nhiệm** cho hành vi của mình.
+
 ## 📞 Hỗ trợ & Liên hệ
 
 - 🐛 Báo lỗi (Issues): [GitHub Issues](https://github.com/tuanvuchu/RoPhimUnlocker/issues)
